@@ -1,0 +1,24 @@
+{
+  "name": "contanarized-web-app-deploy",
+  "version": "1.0.0",
+  "description": "It touches on the essential pillars of modern infrastructure: Containerization (Docker), Cloud Registry (ECR), Orchestration (ECS), and CI/CD (GitHub Actions).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collins-Munufie/Contanarized-Web-App-Deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Collins-Munufie/Contanarized-Web-App-Deploy/issues"
+  },
+  "homepage": "https://github.com/Collins-Munufie/Contanarized-Web-App-Deploy#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
